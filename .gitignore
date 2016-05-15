@@ -1,0 +1,10 @@
+target/
+.project
+.classpath
+bin/
+node_modules/
+.settings/
+.idea/
+.DS_Store
+.iml
+.metadata/org.eclipse.wst.jsdt.core.javascriptValidator.launch
